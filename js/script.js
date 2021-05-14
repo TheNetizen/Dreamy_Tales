@@ -1,8 +1,12 @@
 $(document).ready(function(){
+  // jQuery('.owl-item').on('hover', ()=>{
+  //   $('.prodname')
+  // })
     $(".owl-carousel").owlCarousel(
       {
         items:2,
         responsiveClass:true,
+        autoplay: false,
         responsive:{
           0:{
             items:1
@@ -14,10 +18,6 @@ $(document).ready(function(){
             items:2.5
           }
         },
-        autoplay:{
-          type:500,
-          default:false
-        }
       }
     );
   });

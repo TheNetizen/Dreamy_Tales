@@ -24,18 +24,27 @@
         
         <div class="item">
            <img src="assets/carouselimg2.jpg" alt="Carousel Image">
+           <div class="prodname"><a href="#">sample name</a></div>
         </div>
         <div class="item">
            <img src="assets/carouselimg4.jpg" alt="Carousel Image">
+           <div class="prodname"><a href="#">sample name</a></div>
+
         </div>
         <div class="item">
            <img src="assets/carouselimg5.jpg" alt="Carousel Image">
+           <div class="prodname"><a href="#">sample name</a></div>
+
         </div>
         <div class="item">
            <img src="assets/carouselimg6.jpg" alt="Carousel Image">
+           <div class="prodname"><a href="#">sample name</a></div>
+
         </div>
         <div class="item">
            <img src="assets/carouselimg7.jpg" alt="Carousel Image">
+           <div class="prodname"><a href="#">sample name</a></div>
+
         </div>
         
     </div>
